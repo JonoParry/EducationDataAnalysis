@@ -1,0 +1,1260 @@
+Pupil attendance in schools
+2023 Week 29
+
+Rounding
+
+In recognition of the uncertainty around inset days, reporting lag and reduced response rate, rates for week commencing 5 September 2022 have been rounded to 0 decimal places.
+
+All other figures are unrounded.
+
+Data suppression
+
+Where there is only 1 school in a local authority at daily, weekly, termly or year to date level, the attendance figures are suppressed.
+
+All other figures are unsuppressed.
+
+Data files
+
+Pupil attendance between 12 September and 16 December 2022 by SEN - Autumn term
+
+Filename: aut_sen_.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2022/23 Autumn term
+Content summary: Autumn term local authority, regional and national attendance between 12 September and 16 December  2022, including reasons for absence. Figures are provided for state-funded primary, secondary and special schools broken down by SEN. Totals for all schools are also included that include estimates for non-response.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                      |  Variable description
+-------------------------------------------------  |  ----------------------------------------------------------------------
+appointments_perc                                  |  Authorised appointments absence rate
+approved_educational_activity                      |  Sessions marked as approved educational activity
+attendance_perc                                    |  Attendance rate
+auth_excluded_perc                                 |  Authorised exclusions absence rate
+auth_grt_perc                                      |  Authorised traveller absence rate
+auth_holiday_perc                                  |  Authorised holiday rate
+auth_other_perc                                    |  Authorised other absence rate
+auth_religious_perc                                |  Authorised religious observance absence rate
+auth_study_perc                                    |  Authorised study leave absence rate
+authorised_absence                                 |  Sessions marked as authorised absence
+authorised_absence_perc                            |  Authorised absence rate
+covid_non_compulsory_perc                          |  Authorised not attending due to covid circumstances rate
+illness_perc                                       |  Authorised illness absence rate
+late_sessions                                      |  Sessions marked as late
+overall_absence                                    |  Sessions marked as absence
+overall_absence_perc                               |  Overall absence rate
+overall_attendance                                 |  Sessions marked at attending (including approved educational activity)
+pa_perc                                            |  Persistent absence rate
+possible_sessions                                  |  Total possible sessions
+present_sessions                                   |  Sessions marked as attending (including late before registers closed)
+reason_b_aea_education_off_site                    |  Sessions marked as approved education off site
+reason_c_authorised_other                          |  Sessions marked as authorised other
+reason_d_aea_dual_registration                     |  Sessions marked as dual registration
+reason_e_authorised_excluded                       |  Sessions marked as authorised excluded
+reason_g_unauthorised_holiday                      |  Sessions marked as unauthorised holiday
+reason_h_authorised_holiday                        |  Sessions marked as authorised holiday
+reason_i_authorised_illness                        |  Sessions marked as authorised illness
+reason_j_aea_interview                             |  Sessions marked as approved interview
+reason_l_present_late_before_registers_closed      |  Sessions marked as late before registers closed
+reason_m_authorised_medical_dental                 |  Sessions marked as authorised medical or dental appointments
+reason_n_no_reason_yet                             |  Sessions marked as no reason yet
+reason_o_other_unauthorised                        |  Sessions marked as unauthorised other
+reason_p_aea_approved_sporting_activity            |  Sessions marked as approved sporting activity
+reason_present                                     |  Sessions marked as attending (excluding late before registers closed)
+reason_present_am                                  |  Morning sessions
+reason_present_pm                                  |  Afternoon sessions
+reason_r_authorised_religious_observance           |  Sessions marked as authorised  religious observance
+reason_s_authorised_study_leave                    |  Sessions marked as authorised study leave
+reason_t_authorised_grt_absence                    |  Sessions marked as authorised traveller absence
+reason_u_unauthorised_late_after_registers_closed  |  Sessions marked as unauthorised late after registers closed
+reason_v_aea_educational_visit_trip                |  Sessions marked as approved educational visit or trip
+reason_w_aea_work_experience                       |  Sessions marked as approved work experience
+reason_x_not_attending_covid_non_compulsory        |  Sessions marked as not attending due to covid circumstances
+school_type                                        |  School Type
+sen                                                |  Special Educational Need
+unauth_hol_perc                                    |  Unauthorised holiday absence rate
+unauth_late_registers_closed_perc                  |  Unauthorised late absence rate
+unauth_not_yet_perc                                |  Unauthorised no reason yet absence rate
+unauth_oth_perc                                    |  Unauthorised other absence rate
+unauthorised_absence                               |  Sessions marked as unauthorised absence
+unauthorised_absence_perc                          |  Unauthorised absence rate
+
+Footnotes:
+
+1. At local authority level, due to data only being representative of those schools currently participating in daily data sharing, it is possible there will be differences between absence rates presented here and in the termly school census based absence publication. 
+2. For pupils in special schools, there are a very small number of enrolments with No SEN or on SEN support and care should be taken when using these figures in particular. As there is a difference in timeliness between this publication and data produced from the school census, it is possible there will be differences between the absence rates presented here and in the census absence publication.
+
+
+Pupil attendance between 03 January and 31 March 2023 by SEN - Spring term
+
+Filename: spr_sen.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2022/23 Spring term
+Content summary: Spring term local authority, regional and national attendance between 03 January and 31 March 2023, including reasons for absence. Figures are provided for state-funded primary, secondary and special schools broken down by SEN. Totals for all schools are also included that include estimates for non-response.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                      |  Variable description
+-------------------------------------------------  |  ----------------------------------------------------------------------
+appointments_perc                                  |  Authorised appointments absence rate
+approved_educational_activity                      |  Sessions marked as approved educational activity
+attendance_perc                                    |  Attendance rate
+auth_excluded_perc                                 |  Authorised exclusions absence rate
+auth_grt_perc                                      |  Authorised traveller absence rate
+auth_holiday_perc                                  |  Authorised holiday rate
+auth_other_perc                                    |  Authorised other absence rate
+auth_religious_perc                                |  Authorised religious observance absence rate
+auth_study_perc                                    |  Authorised study leave absence rate
+authorised_absence                                 |  Sessions marked as authorised absence
+authorised_absence_perc                            |  Authorised absence rate
+covid_non_compulsory_perc                          |  Authorised not attending due to covid circumstances rate
+illness_perc                                       |  Authorised illness absence rate
+late_sessions                                      |  Sessions marked as late
+overall_absence                                    |  Sessions marked as absence
+overall_absence_perc                               |  Overall absence rate
+overall_attendance                                 |  Sessions marked at attending (including approved educational activity)
+pa_perc                                            |  Persistent absence rate
+possible_sessions                                  |  Total possible sessions
+present_sessions                                   |  Sessions marked as attending (including late before registers closed)
+reason_b_aea_education_off_site                    |  Sessions marked as approved education off site
+reason_c_authorised_other                          |  Sessions marked as authorised other
+reason_d_aea_dual_registration                     |  Sessions marked as dual registration
+reason_e_authorised_excluded                       |  Sessions marked as authorised excluded
+reason_g_unauthorised_holiday                      |  Sessions marked as unauthorised holiday
+reason_h_authorised_holiday                        |  Sessions marked as authorised holiday
+reason_i_authorised_illness                        |  Sessions marked as authorised illness
+reason_j_aea_interview                             |  Sessions marked as approved interview
+reason_l_present_late_before_registers_closed      |  Sessions marked as late before registers closed
+reason_m_authorised_medical_dental                 |  Sessions marked as authorised medical or dental appointments
+reason_n_no_reason_yet                             |  Sessions marked as no reason yet
+reason_o_other_unauthorised                        |  Sessions marked as unauthorised other
+reason_p_aea_approved_sporting_activity            |  Sessions marked as approved sporting activity
+reason_present                                     |  Sessions marked as attending (excluding late before registers closed)
+reason_present_am                                  |  Morning sessions
+reason_present_pm                                  |  Afternoon sessions
+reason_r_authorised_religious_observance           |  Sessions marked as authorised  religious observance
+reason_s_authorised_study_leave                    |  Sessions marked as authorised study leave
+reason_t_authorised_grt_absence                    |  Sessions marked as authorised traveller absence
+reason_u_unauthorised_late_after_registers_closed  |  Sessions marked as unauthorised late after registers closed
+reason_v_aea_educational_visit_trip                |  Sessions marked as approved educational visit or trip
+reason_w_aea_work_experience                       |  Sessions marked as approved work experience
+reason_x_not_attending_covid_non_compulsory        |  Sessions marked as not attending due to covid circumstances
+school_type                                        |  School Type
+sen                                                |  Special Educational Need
+unauth_hol_perc                                    |  Unauthorised holiday absence rate
+unauth_late_registers_closed_perc                  |  Unauthorised late absence rate
+unauth_not_yet_perc                                |  Unauthorised no reason yet absence rate
+unauth_oth_perc                                    |  Unauthorised other absence rate
+unauthorised_absence                               |  Sessions marked as unauthorised absence
+unauthorised_absence_perc                          |  Unauthorised absence rate
+
+Footnotes:
+
+1. At local authority level, due to data only being representative of those schools currently participating in daily data sharing, it is possible there will be differences between absence rates presented here and in the termly school census based absence publication. 
+2. For pupils in special schools, there are a very small number of enrolments with No SEN or on SEN support and care should be taken when using these figures in particular. As there is a difference in timeliness between this publication and data produced from the school census, it is possible there will be differences between the absence rates presented here and in the census absence publication.
+
+
+Pupil attendance between 1 April and 21 July 2023 by SEN - Summer term
+
+Filename: sum_sen.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2022/23 Summer term
+Content summary: Summer term local authority, regional and national attendance between 01 April and 21 July 2023, including reasons for absence. Figures are provided for state-funded primary, secondary and special schools broken down by SEN. Totals for all schools are also included that include estimates for non-response.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                      |  Variable description
+-------------------------------------------------  |  ----------------------------------------------------------------------
+appointments_perc                                  |  Authorised appointments absence rate
+approved_educational_activity                      |  Sessions marked as approved educational activity
+attendance_perc                                    |  Attendance rate
+auth_excluded_perc                                 |  Authorised exclusions absence rate
+auth_grt_perc                                      |  Authorised traveller absence rate
+auth_holiday_perc                                  |  Authorised holiday rate
+auth_other_perc                                    |  Authorised other absence rate
+auth_religious_perc                                |  Authorised religious observance absence rate
+auth_study_perc                                    |  Authorised study leave absence rate
+authorised_absence                                 |  Sessions marked as authorised absence
+authorised_absence_perc                            |  Authorised absence rate
+covid_non_compulsory_perc                          |  Authorised not attending due to covid circumstances rate
+illness_perc                                       |  Authorised illness absence rate
+late_sessions                                      |  Sessions marked as late
+overall_absence                                    |  Sessions marked as absence
+overall_absence_perc                               |  Overall absence rate
+overall_attendance                                 |  Sessions marked at attending (including approved educational activity)
+pa_perc                                            |  Persistent absence rate
+possible_sessions                                  |  Total possible sessions
+present_sessions                                   |  Sessions marked as attending (including late before registers closed)
+reason_b_aea_education_off_site                    |  Sessions marked as approved education off site
+reason_c_authorised_other                          |  Sessions marked as authorised other
+reason_d_aea_dual_registration                     |  Sessions marked as dual registration
+reason_e_authorised_excluded                       |  Sessions marked as authorised excluded
+reason_g_unauthorised_holiday                      |  Sessions marked as unauthorised holiday
+reason_h_authorised_holiday                        |  Sessions marked as authorised holiday
+reason_i_authorised_illness                        |  Sessions marked as authorised illness
+reason_j_aea_interview                             |  Sessions marked as approved interview
+reason_l_present_late_before_registers_closed      |  Sessions marked as late before registers closed
+reason_m_authorised_medical_dental                 |  Sessions marked as authorised medical or dental appointments
+reason_n_no_reason_yet                             |  Sessions marked as no reason yet
+reason_o_other_unauthorised                        |  Sessions marked as unauthorised other
+reason_p_aea_approved_sporting_activity            |  Sessions marked as approved sporting activity
+reason_present                                     |  Sessions marked as attending (excluding late before registers closed)
+reason_present_am                                  |  Morning sessions
+reason_present_pm                                  |  Afternoon sessions
+reason_r_authorised_religious_observance           |  Sessions marked as authorised  religious observance
+reason_s_authorised_study_leave                    |  Sessions marked as authorised study leave
+reason_t_authorised_grt_absence                    |  Sessions marked as authorised traveller absence
+reason_u_unauthorised_late_after_registers_closed  |  Sessions marked as unauthorised late after registers closed
+reason_v_aea_educational_visit_trip                |  Sessions marked as approved educational visit or trip
+reason_w_aea_work_experience                       |  Sessions marked as approved work experience
+reason_x_not_attending_covid_non_compulsory        |  Sessions marked as not attending due to covid circumstances
+school_type                                        |  School Type
+sen                                                |  Special Educational Need
+unauth_hol_perc                                    |  Unauthorised holiday absence rate
+unauth_late_registers_closed_perc                  |  Unauthorised late absence rate
+unauth_not_yet_perc                                |  Unauthorised no reason yet absence rate
+unauth_oth_perc                                    |  Unauthorised other absence rate
+unauthorised_absence                               |  Sessions marked as unauthorised absence
+unauthorised_absence_perc                          |  Unauthorised absence rate
+
+Footnotes:
+
+1. At local authority level, due to data only being representative of those schools currently participating in daily data sharing, it is possible there will be differences between absence rates presented here and in the termly school census based absence publication. 
+2. For pupils in special schools, there are a very small number of enrolments with No SEN or on SEN support and care should be taken when using these figures in particular. As there is a difference in timeliness between this publication and data produced from the school census, it is possible there will be differences between the absence rates presented here and in the census absence publication.
+
+
+Pupil attendance since week commencing 12 September by SEN - Academic year 2022 - 2023
+
+Filename: ytd_sen.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2022/23
+Content summary: Full 2022/23 academic year local authority, regional and national attendance since 12 September 2022, including reasons for absence. Figures are provided for state-funded primary, secondary and special schools broken down by SEN. Totals for all schools are also included that include estimates for non-response.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                      |  Variable description
+-------------------------------------------------  |  ----------------------------------------------------------------------
+appointments_perc                                  |  Authorised appointments absence rate
+approved_educational_activity                      |  Sessions marked as approved educational activity
+attendance_perc                                    |  Attendance rate
+auth_excluded_perc                                 |  Authorised exclusions absence rate
+auth_grt_perc                                      |  Authorised traveller absence rate
+auth_holiday_perc                                  |  Authorised holiday rate
+auth_other_perc                                    |  Authorised other absence rate
+auth_religious_perc                                |  Authorised religious observance absence rate
+auth_study_perc                                    |  Authorised study leave absence rate
+authorised_absence                                 |  Sessions marked as authorised absence
+authorised_absence_perc                            |  Authorised absence rate
+covid_non_compulsory_perc                          |  Authorised not attending due to covid circumstances rate
+illness_perc                                       |  Authorised illness absence rate
+late_sessions                                      |  Sessions marked as late
+overall_absence                                    |  Sessions marked as absence
+overall_absence_perc                               |  Overall absence rate
+overall_attendance                                 |  Sessions marked at attending (including approved educational activity)
+pa_perc                                            |  Persistent absence rate
+possible_sessions                                  |  Total possible sessions
+present_sessions                                   |  Sessions marked as attending (including late before registers closed)
+reason_b_aea_education_off_site                    |  Sessions marked as approved education off site
+reason_c_authorised_other                          |  Sessions marked as authorised other
+reason_d_aea_dual_registration                     |  Sessions marked as dual registration
+reason_e_authorised_excluded                       |  Sessions marked as authorised excluded
+reason_g_unauthorised_holiday                      |  Sessions marked as unauthorised holiday
+reason_h_authorised_holiday                        |  Sessions marked as authorised holiday
+reason_i_authorised_illness                        |  Sessions marked as authorised illness
+reason_j_aea_interview                             |  Sessions marked as approved interview
+reason_l_present_late_before_registers_closed      |  Sessions marked as late before registers closed
+reason_m_authorised_medical_dental                 |  Sessions marked as authorised medical or dental appointments
+reason_n_no_reason_yet                             |  Sessions marked as no reason yet
+reason_o_other_unauthorised                        |  Sessions marked as unauthorised other
+reason_p_aea_approved_sporting_activity            |  Sessions marked as approved sporting activity
+reason_present                                     |  Sessions marked as attending (excluding late before registers closed)
+reason_present_am                                  |  Morning sessions
+reason_present_pm                                  |  Afternoon sessions
+reason_r_authorised_religious_observance           |  Sessions marked as authorised  religious observance
+reason_s_authorised_study_leave                    |  Sessions marked as authorised study leave
+reason_t_authorised_grt_absence                    |  Sessions marked as authorised traveller absence
+reason_u_unauthorised_late_after_registers_closed  |  Sessions marked as unauthorised late after registers closed
+reason_v_aea_educational_visit_trip                |  Sessions marked as approved educational visit or trip
+reason_w_aea_work_experience                       |  Sessions marked as approved work experience
+reason_x_not_attending_covid_non_compulsory        |  Sessions marked as not attending due to covid circumstances
+school_type                                        |  School Type
+sen                                                |  Special Educational Need
+unauth_hol_perc                                    |  Unauthorised holiday absence rate
+unauth_late_registers_closed_perc                  |  Unauthorised late absence rate
+unauth_not_yet_perc                                |  Unauthorised no reason yet absence rate
+unauth_oth_perc                                    |  Unauthorised other absence rate
+unauthorised_absence                               |  Sessions marked as unauthorised absence
+unauthorised_absence_perc                          |  Unauthorised absence rate
+
+Footnotes:
+
+1. At local authority level, due to data only being representative of those schools currently participating in daily data sharing, it is possible there will be differences between absence rates presented here and in the termly school census based absence publication. 
+2. For pupils in special schools, there are a very small number of enrolments with No SEN or on SEN support and care should be taken when using these figures in particular. As there is a difference in timeliness between this publication and data produced from the school census, it is possible there will be differences between the absence rates presented here and in the census absence publication.
+
+
+Pupil attendance between 12 September and 16 December 2022 by gender - Autumn term
+
+Filename: aut_gender.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2022/23 Autumn term
+Content summary: Autumn term local authority, regional and national attendance between 12 September and 16 December  2022, including reasons for absence. Figures are provided for state-funded primary, secondary and special schools broken down by gender. Totals for all schools are also included that include estimates for non-response.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                      |  Variable description
+-------------------------------------------------  |  ----------------------------------------------------------------------
+appointments_perc                                  |  Authorised appointments absence rate
+approved_educational_activity                      |  Sessions marked as approved educational activity
+attendance_perc                                    |  Attendance rate
+auth_excluded_perc                                 |  Authorised exclusions absence rate
+auth_grt_perc                                      |  Authorised traveller absence rate
+auth_holiday_perc                                  |  Authorised holiday rate
+auth_other_perc                                    |  Authorised other absence rate
+auth_religious_perc                                |  Authorised religious observance absence rate
+auth_study_perc                                    |  Authorised study leave absence rate
+authorised_absence                                 |  Sessions marked as authorised absence
+authorised_absence_perc                            |  Authorised absence rate
+covid_non_compulsory_perc                          |  Authorised not attending due to covid circumstances rate
+enrolments                                         |  Number of enrolments in schools reporting
+gender                                             |  Gender
+illness_perc                                       |  Authorised illness absence rate
+late_sessions                                      |  Sessions marked as late
+num_schools                                        |  Number of schools reporting
+overall_absence                                    |  Sessions marked as absence
+overall_absence_perc                               |  Overall absence rate
+overall_attendance                                 |  Sessions marked at attending (including approved educational activity)
+pa_perc                                            |  Persistent absence rate
+possible_sessions                                  |  Total possible sessions
+present_sessions                                   |  Sessions marked as attending (including late before registers closed)
+reason_b_aea_education_off_site                    |  Sessions marked as approved education off site
+reason_c_authorised_other                          |  Sessions marked as authorised other
+reason_d_aea_dual_registration                     |  Sessions marked as dual registration
+reason_e_authorised_excluded                       |  Sessions marked as authorised excluded
+reason_g_unauthorised_holiday                      |  Sessions marked as unauthorised holiday
+reason_h_authorised_holiday                        |  Sessions marked as authorised holiday
+reason_i_authorised_illness                        |  Sessions marked as authorised illness
+reason_j_aea_interview                             |  Sessions marked as approved interview
+reason_l_present_late_before_registers_closed      |  Sessions marked as late before registers closed
+reason_m_authorised_medical_dental                 |  Sessions marked as authorised medical or dental appointments
+reason_n_no_reason_yet                             |  Sessions marked as no reason yet
+reason_o_other_unauthorised                        |  Sessions marked as unauthorised other
+reason_p_aea_approved_sporting_activity            |  Sessions marked as approved sporting activity
+reason_present                                     |  Sessions marked as attending (excluding late before registers closed)
+reason_present_am                                  |  Morning sessions
+reason_present_pm                                  |  Afternoon sessions
+reason_r_authorised_religious_observance           |  Sessions marked as authorised  religious observance
+reason_s_authorised_study_leave                    |  Sessions marked as authorised study leave
+reason_t_authorised_grt_absence                    |  Sessions marked as authorised traveller absence
+reason_u_unauthorised_late_after_registers_closed  |  Sessions marked as unauthorised late after registers closed
+reason_v_aea_educational_visit_trip                |  Sessions marked as approved educational visit or trip
+reason_w_aea_work_experience                       |  Sessions marked as approved work experience
+reason_x_not_attending_covid_non_compulsory        |  Sessions marked as not attending due to covid circumstances
+school_type                                        |  School Type
+unauth_hol_perc                                    |  Unauthorised holiday absence rate
+unauth_late_registers_closed_perc                  |  Unauthorised late absence rate
+unauth_not_yet_perc                                |  Unauthorised no reason yet absence rate
+unauth_oth_perc                                    |  Unauthorised other absence rate
+unauthorised_absence                               |  Sessions marked as unauthorised absence
+unauthorised_absence_perc                          |  Unauthorised absence rate
+
+Footnotes:
+
+1. At local authority level, due to data only being representative of those schools currently participating in daily data sharing, it is possible there will be differences between absence rates presented here and in the termly school census based absence publication. 
+
+
+Pupil attendance between 03 January and 31 March 2023 by gender - Spring term
+
+Filename: spr_gender.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2022/23 Spring term
+Content summary: Spring term local authority, regional and national attendance between 03 January and 31 March 2023, including reasons for absence. Figures are provided for state-funded primary, secondary and special schools broken down by gender. Totals for all schools are also included that include estimates for non-response.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                      |  Variable description
+-------------------------------------------------  |  ----------------------------------------------------------------------
+appointments_perc                                  |  Authorised appointments absence rate
+approved_educational_activity                      |  Sessions marked as approved educational activity
+attendance_perc                                    |  Attendance rate
+auth_excluded_perc                                 |  Authorised exclusions absence rate
+auth_grt_perc                                      |  Authorised traveller absence rate
+auth_holiday_perc                                  |  Authorised holiday rate
+auth_other_perc                                    |  Authorised other absence rate
+auth_religious_perc                                |  Authorised religious observance absence rate
+auth_study_perc                                    |  Authorised study leave absence rate
+authorised_absence                                 |  Sessions marked as authorised absence
+authorised_absence_perc                            |  Authorised absence rate
+covid_non_compulsory_perc                          |  Authorised not attending due to covid circumstances rate
+gender                                             |  Gender
+illness_perc                                       |  Authorised illness absence rate
+late_sessions                                      |  Sessions marked as late
+overall_absence                                    |  Sessions marked as absence
+overall_absence_perc                               |  Overall absence rate
+overall_attendance                                 |  Sessions marked at attending (including approved educational activity)
+pa_perc                                            |  Persistent absence rate
+possible_sessions                                  |  Total possible sessions
+present_sessions                                   |  Sessions marked as attending (including late before registers closed)
+reason_b_aea_education_off_site                    |  Sessions marked as approved education off site
+reason_c_authorised_other                          |  Sessions marked as authorised other
+reason_d_aea_dual_registration                     |  Sessions marked as dual registration
+reason_e_authorised_excluded                       |  Sessions marked as authorised excluded
+reason_g_unauthorised_holiday                      |  Sessions marked as unauthorised holiday
+reason_h_authorised_holiday                        |  Sessions marked as authorised holiday
+reason_i_authorised_illness                        |  Sessions marked as authorised illness
+reason_j_aea_interview                             |  Sessions marked as approved interview
+reason_l_present_late_before_registers_closed      |  Sessions marked as late before registers closed
+reason_m_authorised_medical_dental                 |  Sessions marked as authorised medical or dental appointments
+reason_n_no_reason_yet                             |  Sessions marked as no reason yet
+reason_o_other_unauthorised                        |  Sessions marked as unauthorised other
+reason_p_aea_approved_sporting_activity            |  Sessions marked as approved sporting activity
+reason_present                                     |  Sessions marked as attending (excluding late before registers closed)
+reason_present_am                                  |  Morning sessions
+reason_present_pm                                  |  Afternoon sessions
+reason_r_authorised_religious_observance           |  Sessions marked as authorised  religious observance
+reason_s_authorised_study_leave                    |  Sessions marked as authorised study leave
+reason_t_authorised_grt_absence                    |  Sessions marked as authorised traveller absence
+reason_u_unauthorised_late_after_registers_closed  |  Sessions marked as unauthorised late after registers closed
+reason_v_aea_educational_visit_trip                |  Sessions marked as approved educational visit or trip
+reason_w_aea_work_experience                       |  Sessions marked as approved work experience
+reason_x_not_attending_covid_non_compulsory        |  Sessions marked as not attending due to covid circumstances
+school_type                                        |  School Type
+unauth_hol_perc                                    |  Unauthorised holiday absence rate
+unauth_late_registers_closed_perc                  |  Unauthorised late absence rate
+unauth_not_yet_perc                                |  Unauthorised no reason yet absence rate
+unauth_oth_perc                                    |  Unauthorised other absence rate
+unauthorised_absence                               |  Sessions marked as unauthorised absence
+unauthorised_absence_perc                          |  Unauthorised absence rate
+
+Footnotes:
+
+1. At local authority level, due to data only being representative of those schools currently participating in daily data sharing, it is possible there will be differences between absence rates presented here and in the termly school census based absence publication. 
+
+
+Pupil attendance between 1 April and 21 July 2023 by gender - Summer term
+
+Filename: sum_gender.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2022/23 Summer term
+Content summary: Summer term local authority, regional and national attendance between 01 April and 21 July 2023, including reasons for absence. Figures are provided for state-funded primary, secondary and special schools broken down by gender. Totals for all schools are also included that include estimates for non-response.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                      |  Variable description
+-------------------------------------------------  |  ----------------------------------------------------------------------
+appointments_perc                                  |  Authorised appointments absence rate
+approved_educational_activity                      |  Sessions marked as approved educational activity
+attendance_perc                                    |  Attendance rate
+auth_excluded_perc                                 |  Authorised exclusions absence rate
+auth_grt_perc                                      |  Authorised traveller absence rate
+auth_holiday_perc                                  |  Authorised holiday rate
+auth_other_perc                                    |  Authorised other absence rate
+auth_religious_perc                                |  Authorised religious observance absence rate
+auth_study_perc                                    |  Authorised study leave absence rate
+authorised_absence                                 |  Sessions marked as authorised absence
+authorised_absence_perc                            |  Authorised absence rate
+covid_non_compulsory_perc                          |  Authorised not attending due to covid circumstances rate
+gender                                             |  Gender
+illness_perc                                       |  Authorised illness absence rate
+late_sessions                                      |  Sessions marked as late
+overall_absence                                    |  Sessions marked as absence
+overall_absence_perc                               |  Overall absence rate
+overall_attendance                                 |  Sessions marked at attending (including approved educational activity)
+pa_perc                                            |  Persistent absence rate
+possible_sessions                                  |  Total possible sessions
+present_sessions                                   |  Sessions marked as attending (including late before registers closed)
+reason_b_aea_education_off_site                    |  Sessions marked as approved education off site
+reason_c_authorised_other                          |  Sessions marked as authorised other
+reason_d_aea_dual_registration                     |  Sessions marked as dual registration
+reason_e_authorised_excluded                       |  Sessions marked as authorised excluded
+reason_g_unauthorised_holiday                      |  Sessions marked as unauthorised holiday
+reason_h_authorised_holiday                        |  Sessions marked as authorised holiday
+reason_i_authorised_illness                        |  Sessions marked as authorised illness
+reason_j_aea_interview                             |  Sessions marked as approved interview
+reason_l_present_late_before_registers_closed      |  Sessions marked as late before registers closed
+reason_m_authorised_medical_dental                 |  Sessions marked as authorised medical or dental appointments
+reason_n_no_reason_yet                             |  Sessions marked as no reason yet
+reason_o_other_unauthorised                        |  Sessions marked as unauthorised other
+reason_p_aea_approved_sporting_activity            |  Sessions marked as approved sporting activity
+reason_present                                     |  Sessions marked as attending (excluding late before registers closed)
+reason_present_am                                  |  Morning sessions
+reason_present_pm                                  |  Afternoon sessions
+reason_r_authorised_religious_observance           |  Sessions marked as authorised  religious observance
+reason_s_authorised_study_leave                    |  Sessions marked as authorised study leave
+reason_t_authorised_grt_absence                    |  Sessions marked as authorised traveller absence
+reason_u_unauthorised_late_after_registers_closed  |  Sessions marked as unauthorised late after registers closed
+reason_v_aea_educational_visit_trip                |  Sessions marked as approved educational visit or trip
+reason_w_aea_work_experience                       |  Sessions marked as approved work experience
+reason_x_not_attending_covid_non_compulsory        |  Sessions marked as not attending due to covid circumstances
+school_type                                        |  School Type
+unauth_hol_perc                                    |  Unauthorised holiday absence rate
+unauth_late_registers_closed_perc                  |  Unauthorised late absence rate
+unauth_not_yet_perc                                |  Unauthorised no reason yet absence rate
+unauth_oth_perc                                    |  Unauthorised other absence rate
+unauthorised_absence                               |  Sessions marked as unauthorised absence
+unauthorised_absence_perc                          |  Unauthorised absence rate
+
+Footnotes:
+
+1. At local authority level, due to data only being representative of those schools currently participating in daily data sharing, it is possible there will be differences between absence rates presented here and in the termly school census based absence publication. 
+
+
+Pupil attendance since week commencing 12 September by gender - Academic year 2022 - 2023
+
+Filename: ytd_gender.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2022/23
+Content summary: Full 2022/23 academic year local authority, regional and national attendance since 12 September 2022, including reasons for absence. Figures are provided for state-funded primary, secondary and special schools broken down by gender. Totals for all schools are also included that include estimates for non-response.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                      |  Variable description
+-------------------------------------------------  |  ----------------------------------------------------------------------
+appointments_perc                                  |  Authorised appointments absence rate
+approved_educational_activity                      |  Sessions marked as approved educational activity
+attendance_perc                                    |  Attendance rate
+auth_excluded_perc                                 |  Authorised exclusions absence rate
+auth_grt_perc                                      |  Authorised traveller absence rate
+auth_holiday_perc                                  |  Authorised holiday rate
+auth_other_perc                                    |  Authorised other absence rate
+auth_religious_perc                                |  Authorised religious observance absence rate
+auth_study_perc                                    |  Authorised study leave absence rate
+authorised_absence                                 |  Sessions marked as authorised absence
+authorised_absence_perc                            |  Authorised absence rate
+covid_non_compulsory_perc                          |  Authorised not attending due to covid circumstances rate
+gender                                             |  Gender
+illness_perc                                       |  Authorised illness absence rate
+late_sessions                                      |  Sessions marked as late
+overall_absence                                    |  Sessions marked as absence
+overall_absence_perc                               |  Overall absence rate
+overall_attendance                                 |  Sessions marked at attending (including approved educational activity)
+pa_perc                                            |  Persistent absence rate
+possible_sessions                                  |  Total possible sessions
+present_sessions                                   |  Sessions marked as attending (including late before registers closed)
+reason_b_aea_education_off_site                    |  Sessions marked as approved education off site
+reason_c_authorised_other                          |  Sessions marked as authorised other
+reason_d_aea_dual_registration                     |  Sessions marked as dual registration
+reason_e_authorised_excluded                       |  Sessions marked as authorised excluded
+reason_g_unauthorised_holiday                      |  Sessions marked as unauthorised holiday
+reason_h_authorised_holiday                        |  Sessions marked as authorised holiday
+reason_i_authorised_illness                        |  Sessions marked as authorised illness
+reason_j_aea_interview                             |  Sessions marked as approved interview
+reason_l_present_late_before_registers_closed      |  Sessions marked as late before registers closed
+reason_m_authorised_medical_dental                 |  Sessions marked as authorised medical or dental appointments
+reason_n_no_reason_yet                             |  Sessions marked as no reason yet
+reason_o_other_unauthorised                        |  Sessions marked as unauthorised other
+reason_p_aea_approved_sporting_activity            |  Sessions marked as approved sporting activity
+reason_present                                     |  Sessions marked as attending (excluding late before registers closed)
+reason_present_am                                  |  Morning sessions
+reason_present_pm                                  |  Afternoon sessions
+reason_r_authorised_religious_observance           |  Sessions marked as authorised  religious observance
+reason_s_authorised_study_leave                    |  Sessions marked as authorised study leave
+reason_t_authorised_grt_absence                    |  Sessions marked as authorised traveller absence
+reason_u_unauthorised_late_after_registers_closed  |  Sessions marked as unauthorised late after registers closed
+reason_v_aea_educational_visit_trip                |  Sessions marked as approved educational visit or trip
+reason_w_aea_work_experience                       |  Sessions marked as approved work experience
+reason_x_not_attending_covid_non_compulsory        |  Sessions marked as not attending due to covid circumstances
+school_type                                        |  School Type
+unauth_hol_perc                                    |  Unauthorised holiday absence rate
+unauth_late_registers_closed_perc                  |  Unauthorised late absence rate
+unauth_not_yet_perc                                |  Unauthorised no reason yet absence rate
+unauth_oth_perc                                    |  Unauthorised other absence rate
+unauthorised_absence                               |  Sessions marked as unauthorised absence
+unauthorised_absence_perc                          |  Unauthorised absence rate
+
+Footnotes:
+
+1. At local authority level, due to data only being representative of those schools currently participating in daily data sharing, it is possible there will be differences between absence rates presented here and in the termly school census based absence publication. 
+
+
+Pupil attendance between 12 September and 16 December 2022 by FSM- Autumn term
+
+Filename: aut_fsm.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2022/23 Autumn term
+Content summary: Autumn term local authority, regional and national attendance between 12 September and 16 December  2022, including reasons for absence. Figures are provided for state-funded primary, secondary and special schools broken down by Free School Meals eligibility. Totals for all schools are also included that include estimates for non-response.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                      |  Variable description
+-------------------------------------------------  |  ----------------------------------------------------------------------
+appointments_perc                                  |  Authorised appointments absence rate
+approved_educational_activity                      |  Sessions marked as approved educational activity
+attendance_perc                                    |  Attendance rate
+auth_excluded_perc                                 |  Authorised exclusions absence rate
+auth_grt_perc                                      |  Authorised traveller absence rate
+auth_holiday_perc                                  |  Authorised holiday rate
+auth_other_perc                                    |  Authorised other absence rate
+auth_religious_perc                                |  Authorised religious observance absence rate
+auth_study_perc                                    |  Authorised study leave absence rate
+authorised_absence                                 |  Sessions marked as authorised absence
+authorised_absence_perc                            |  Authorised absence rate
+covid_non_compulsory_perc                          |  Authorised not attending due to covid circumstances rate
+disadvantage_code                                  |  Free school meal eligibility
+illness_perc                                       |  Authorised illness absence rate
+late_sessions                                      |  Sessions marked as late
+overall_absence                                    |  Sessions marked as absence
+overall_absence_perc                               |  Overall absence rate
+overall_attendance                                 |  Sessions marked at attending (including approved educational activity)
+pa_perc                                            |  Persistent absence rate
+possible_sessions                                  |  Total possible sessions
+present_sessions                                   |  Sessions marked as attending (including late before registers closed)
+reason_b_aea_education_off_site                    |  Sessions marked as approved education off site
+reason_c_authorised_other                          |  Sessions marked as authorised other
+reason_d_aea_dual_registration                     |  Sessions marked as dual registration
+reason_e_authorised_excluded                       |  Sessions marked as authorised excluded
+reason_g_unauthorised_holiday                      |  Sessions marked as unauthorised holiday
+reason_h_authorised_holiday                        |  Sessions marked as authorised holiday
+reason_i_authorised_illness                        |  Sessions marked as authorised illness
+reason_j_aea_interview                             |  Sessions marked as approved interview
+reason_l_present_late_before_registers_closed      |  Sessions marked as late before registers closed
+reason_m_authorised_medical_dental                 |  Sessions marked as authorised medical or dental appointments
+reason_n_no_reason_yet                             |  Sessions marked as no reason yet
+reason_o_other_unauthorised                        |  Sessions marked as unauthorised other
+reason_p_aea_approved_sporting_activity            |  Sessions marked as approved sporting activity
+reason_present                                     |  Sessions marked as attending (excluding late before registers closed)
+reason_present_am                                  |  Morning sessions
+reason_present_pm                                  |  Afternoon sessions
+reason_r_authorised_religious_observance           |  Sessions marked as authorised  religious observance
+reason_s_authorised_study_leave                    |  Sessions marked as authorised study leave
+reason_t_authorised_grt_absence                    |  Sessions marked as authorised traveller absence
+reason_u_unauthorised_late_after_registers_closed  |  Sessions marked as unauthorised late after registers closed
+reason_v_aea_educational_visit_trip                |  Sessions marked as approved educational visit or trip
+reason_w_aea_work_experience                       |  Sessions marked as approved work experience
+reason_x_not_attending_covid_non_compulsory        |  Sessions marked as not attending due to covid circumstances
+school_type                                        |  School Type
+unauth_hol_perc                                    |  Unauthorised holiday absence rate
+unauth_late_registers_closed_perc                  |  Unauthorised late absence rate
+unauth_not_yet_perc                                |  Unauthorised no reason yet absence rate
+unauth_oth_perc                                    |  Unauthorised other absence rate
+unauthorised_absence                               |  Sessions marked as unauthorised absence
+unauthorised_absence_perc                          |  Unauthorised absence rate
+
+Footnotes:
+
+1. At local authority level, due to data only being representative of those schools currently participating in daily data sharing, it is possible there will be differences between absence rates presented here and in the termly school census based absence publication. 
+
+
+Pupil attendance between 03 January and 31 March 2023 by FSM - Spring term
+
+Filename: spr_fsm.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2022/23 Spring term
+Content summary: Spring term local authority, regional and national attendance between 03 January and 31 March 2023, including reasons for absence. Figures are provided for state-funded primary, secondary and special schools broken down by Free School Meals eligibility. Totals for all schools are also included that include estimates for non-response.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                      |  Variable description
+-------------------------------------------------  |  ----------------------------------------------------------------------
+appointments_perc                                  |  Authorised appointments absence rate
+approved_educational_activity                      |  Sessions marked as approved educational activity
+attendance_perc                                    |  Attendance rate
+auth_excluded_perc                                 |  Authorised exclusions absence rate
+auth_grt_perc                                      |  Authorised traveller absence rate
+auth_holiday_perc                                  |  Authorised holiday rate
+auth_other_perc                                    |  Authorised other absence rate
+auth_religious_perc                                |  Authorised religious observance absence rate
+auth_study_perc                                    |  Authorised study leave absence rate
+authorised_absence                                 |  Sessions marked as authorised absence
+authorised_absence_perc                            |  Authorised absence rate
+covid_non_compulsory_perc                          |  Authorised not attending due to covid circumstances rate
+disadvantage_code                                  |  Free school meal eligibility
+illness_perc                                       |  Authorised illness absence rate
+late_sessions                                      |  Sessions marked as late
+overall_absence                                    |  Sessions marked as absence
+overall_absence_perc                               |  Overall absence rate
+overall_attendance                                 |  Sessions marked at attending (including approved educational activity)
+pa_perc                                            |  Persistent absence rate
+possible_sessions                                  |  Total possible sessions
+present_sessions                                   |  Sessions marked as attending (including late before registers closed)
+reason_b_aea_education_off_site                    |  Sessions marked as approved education off site
+reason_c_authorised_other                          |  Sessions marked as authorised other
+reason_d_aea_dual_registration                     |  Sessions marked as dual registration
+reason_e_authorised_excluded                       |  Sessions marked as authorised excluded
+reason_g_unauthorised_holiday                      |  Sessions marked as unauthorised holiday
+reason_h_authorised_holiday                        |  Sessions marked as authorised holiday
+reason_i_authorised_illness                        |  Sessions marked as authorised illness
+reason_j_aea_interview                             |  Sessions marked as approved interview
+reason_l_present_late_before_registers_closed      |  Sessions marked as late before registers closed
+reason_m_authorised_medical_dental                 |  Sessions marked as authorised medical or dental appointments
+reason_n_no_reason_yet                             |  Sessions marked as no reason yet
+reason_o_other_unauthorised                        |  Sessions marked as unauthorised other
+reason_p_aea_approved_sporting_activity            |  Sessions marked as approved sporting activity
+reason_present                                     |  Sessions marked as attending (excluding late before registers closed)
+reason_present_am                                  |  Morning sessions
+reason_present_pm                                  |  Afternoon sessions
+reason_r_authorised_religious_observance           |  Sessions marked as authorised  religious observance
+reason_s_authorised_study_leave                    |  Sessions marked as authorised study leave
+reason_t_authorised_grt_absence                    |  Sessions marked as authorised traveller absence
+reason_u_unauthorised_late_after_registers_closed  |  Sessions marked as unauthorised late after registers closed
+reason_v_aea_educational_visit_trip                |  Sessions marked as approved educational visit or trip
+reason_w_aea_work_experience                       |  Sessions marked as approved work experience
+reason_x_not_attending_covid_non_compulsory        |  Sessions marked as not attending due to covid circumstances
+school_type                                        |  School Type
+unauth_hol_perc                                    |  Unauthorised holiday absence rate
+unauth_late_registers_closed_perc                  |  Unauthorised late absence rate
+unauth_not_yet_perc                                |  Unauthorised no reason yet absence rate
+unauth_oth_perc                                    |  Unauthorised other absence rate
+unauthorised_absence                               |  Sessions marked as unauthorised absence
+unauthorised_absence_perc                          |  Unauthorised absence rate
+
+Footnotes:
+
+1. At local authority level, due to data only being representative of those schools currently participating in daily data sharing, it is possible there will be differences between absence rates presented here and in the termly school census based absence publication. 
+
+
+Pupil attendance between 1 April and 21 July 2023 by FSM - Summer term
+
+Filename: sum_fsm.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2022/23 Summer term
+Content summary: Summer term local authority, regional and national attendance between 01 April and 21 July 2023, including reasons for absence. Figures are provided for state-funded primary, secondary and special schools broken down by Free School Meals eligibility. Totals for all schools are also included that include estimates for non-response.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                      |  Variable description
+-------------------------------------------------  |  ----------------------------------------------------------------------
+appointments_perc                                  |  Authorised appointments absence rate
+approved_educational_activity                      |  Sessions marked as approved educational activity
+attendance_perc                                    |  Attendance rate
+auth_excluded_perc                                 |  Authorised exclusions absence rate
+auth_grt_perc                                      |  Authorised traveller absence rate
+auth_holiday_perc                                  |  Authorised holiday rate
+auth_other_perc                                    |  Authorised other absence rate
+auth_religious_perc                                |  Authorised religious observance absence rate
+auth_study_perc                                    |  Authorised study leave absence rate
+authorised_absence                                 |  Sessions marked as authorised absence
+authorised_absence_perc                            |  Authorised absence rate
+covid_non_compulsory_perc                          |  Authorised not attending due to covid circumstances rate
+disadvantage_code                                  |  Free school meal eligibility
+illness_perc                                       |  Authorised illness absence rate
+late_sessions                                      |  Sessions marked as late
+overall_absence                                    |  Sessions marked as absence
+overall_absence_perc                               |  Overall absence rate
+overall_attendance                                 |  Sessions marked at attending (including approved educational activity)
+pa_perc                                            |  Persistent absence rate
+possible_sessions                                  |  Total possible sessions
+present_sessions                                   |  Sessions marked as attending (including late before registers closed)
+reason_b_aea_education_off_site                    |  Sessions marked as approved education off site
+reason_c_authorised_other                          |  Sessions marked as authorised other
+reason_d_aea_dual_registration                     |  Sessions marked as dual registration
+reason_e_authorised_excluded                       |  Sessions marked as authorised excluded
+reason_g_unauthorised_holiday                      |  Sessions marked as unauthorised holiday
+reason_h_authorised_holiday                        |  Sessions marked as authorised holiday
+reason_i_authorised_illness                        |  Sessions marked as authorised illness
+reason_j_aea_interview                             |  Sessions marked as approved interview
+reason_l_present_late_before_registers_closed      |  Sessions marked as late before registers closed
+reason_m_authorised_medical_dental                 |  Sessions marked as authorised medical or dental appointments
+reason_n_no_reason_yet                             |  Sessions marked as no reason yet
+reason_o_other_unauthorised                        |  Sessions marked as unauthorised other
+reason_p_aea_approved_sporting_activity            |  Sessions marked as approved sporting activity
+reason_present                                     |  Sessions marked as attending (excluding late before registers closed)
+reason_present_am                                  |  Morning sessions
+reason_present_pm                                  |  Afternoon sessions
+reason_r_authorised_religious_observance           |  Sessions marked as authorised  religious observance
+reason_s_authorised_study_leave                    |  Sessions marked as authorised study leave
+reason_t_authorised_grt_absence                    |  Sessions marked as authorised traveller absence
+reason_u_unauthorised_late_after_registers_closed  |  Sessions marked as unauthorised late after registers closed
+reason_v_aea_educational_visit_trip                |  Sessions marked as approved educational visit or trip
+reason_w_aea_work_experience                       |  Sessions marked as approved work experience
+reason_x_not_attending_covid_non_compulsory        |  Sessions marked as not attending due to covid circumstances
+school_type                                        |  School Type
+unauth_hol_perc                                    |  Unauthorised holiday absence rate
+unauth_late_registers_closed_perc                  |  Unauthorised late absence rate
+unauth_not_yet_perc                                |  Unauthorised no reason yet absence rate
+unauth_oth_perc                                    |  Unauthorised other absence rate
+unauthorised_absence                               |  Sessions marked as unauthorised absence
+unauthorised_absence_perc                          |  Unauthorised absence rate
+
+Footnotes:
+
+1. At local authority level, due to data only being representative of those schools currently participating in daily data sharing, it is possible there will be differences between absence rates presented here and in the termly school census based absence publication. 
+
+
+Pupil attendance since week commencing 12 September by FSM - Academic year 2022 - 2023
+
+Filename: ytd_fsm.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2022/23
+Content summary: Full 2022/23 academic year local authority, regional and national attendance since 12 September 2022, including reasons for absence. Figures are provided for state-funded primary, secondary and special schools broken down by Free School Meals eligibility. Totals for all schools are also included that include estimates for non-response.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                      |  Variable description
+-------------------------------------------------  |  ----------------------------------------------------------------------
+appointments_perc                                  |  Authorised appointments absence rate
+approved_educational_activity                      |  Sessions marked as approved educational activity
+attendance_perc                                    |  Attendance rate
+auth_excluded_perc                                 |  Authorised exclusions absence rate
+auth_grt_perc                                      |  Authorised traveller absence rate
+auth_holiday_perc                                  |  Authorised holiday rate
+auth_other_perc                                    |  Authorised other absence rate
+auth_religious_perc                                |  Authorised religious observance absence rate
+auth_study_perc                                    |  Authorised study leave absence rate
+authorised_absence                                 |  Sessions marked as authorised absence
+authorised_absence_perc                            |  Authorised absence rate
+covid_non_compulsory_perc                          |  Authorised not attending due to covid circumstances rate
+disadvantage_code                                  |  Free school meal eligibility
+illness_perc                                       |  Authorised illness absence rate
+late_sessions                                      |  Sessions marked as late
+overall_absence                                    |  Sessions marked as absence
+overall_absence_perc                               |  Overall absence rate
+overall_attendance                                 |  Sessions marked at attending (including approved educational activity)
+pa_perc                                            |  Persistent absence rate
+possible_sessions                                  |  Total possible sessions
+present_sessions                                   |  Sessions marked as attending (including late before registers closed)
+reason_b_aea_education_off_site                    |  Sessions marked as approved education off site
+reason_c_authorised_other                          |  Sessions marked as authorised other
+reason_d_aea_dual_registration                     |  Sessions marked as dual registration
+reason_e_authorised_excluded                       |  Sessions marked as authorised excluded
+reason_g_unauthorised_holiday                      |  Sessions marked as unauthorised holiday
+reason_h_authorised_holiday                        |  Sessions marked as authorised holiday
+reason_i_authorised_illness                        |  Sessions marked as authorised illness
+reason_j_aea_interview                             |  Sessions marked as approved interview
+reason_l_present_late_before_registers_closed      |  Sessions marked as late before registers closed
+reason_m_authorised_medical_dental                 |  Sessions marked as authorised medical or dental appointments
+reason_n_no_reason_yet                             |  Sessions marked as no reason yet
+reason_o_other_unauthorised                        |  Sessions marked as unauthorised other
+reason_p_aea_approved_sporting_activity            |  Sessions marked as approved sporting activity
+reason_present                                     |  Sessions marked as attending (excluding late before registers closed)
+reason_present_am                                  |  Morning sessions
+reason_present_pm                                  |  Afternoon sessions
+reason_r_authorised_religious_observance           |  Sessions marked as authorised  religious observance
+reason_s_authorised_study_leave                    |  Sessions marked as authorised study leave
+reason_t_authorised_grt_absence                    |  Sessions marked as authorised traveller absence
+reason_u_unauthorised_late_after_registers_closed  |  Sessions marked as unauthorised late after registers closed
+reason_v_aea_educational_visit_trip                |  Sessions marked as approved educational visit or trip
+reason_w_aea_work_experience                       |  Sessions marked as approved work experience
+reason_x_not_attending_covid_non_compulsory        |  Sessions marked as not attending due to covid circumstances
+school_type                                        |  School Type
+unauth_hol_perc                                    |  Unauthorised holiday absence rate
+unauth_late_registers_closed_perc                  |  Unauthorised late absence rate
+unauth_not_yet_perc                                |  Unauthorised no reason yet absence rate
+unauth_oth_perc                                    |  Unauthorised other absence rate
+unauthorised_absence                               |  Sessions marked as unauthorised absence
+unauthorised_absence_perc                          |  Unauthorised absence rate
+
+Footnotes:
+
+1. At local authority level, due to data only being representative of those schools currently participating in daily data sharing, it is possible there will be differences between absence rates presented here and in the termly school census based absence publication. 
+
+
+Pupil attendance since week commencing 12 September - daily
+
+Filename: ees_daily_data_.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2022 Week 37 to 2023 Week 30
+Content summary: Daily local authority, regional and national attendance since 12 September 2022, including reasons for absence. Figures are provided for state-funded primary, secondary and special schools. Totals for all schools are also included that include estimates for non-response.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                      |  Variable description
+-------------------------------------------------  |  ----------------------------------------------------------------------
+appointments_perc                                  |  Authorised appointments absence rate
+approved_educational_activity                      |  Sessions marked as approved educational activity
+attendance_date                                    |  Attendance Date
+attendance_perc                                    |  Attendance rate
+auth_excluded_perc                                 |  Authorised exclusions absence rate
+auth_grt_perc                                      |  Authorised traveller absence rate
+auth_holiday_perc                                  |  Authorised holiday rate
+auth_other_perc                                    |  Authorised other absence rate
+auth_religious_perc                                |  Authorised religious observance absence rate
+auth_study_perc                                    |  Authorised study leave absence rate
+authorised_absence                                 |  Sessions marked as authorised absence
+authorised_absence_perc                            |  Authorised absence rate
+covid_non_compulsory_perc                          |  Authorised not attending due to covid circumstances rate
+enrolments                                         |  Number of enrolments in schools reporting
+illness_perc                                       |  Authorised illness absence rate
+late_sessions                                      |  Sessions marked as late
+num_schools                                        |  Number of schools reporting
+overall_absence                                    |  Sessions marked as absence
+overall_absence_perc                               |  Overall absence rate
+overall_attendance                                 |  Sessions marked at attending (including approved educational activity)
+possible_sessions                                  |  Total possible sessions
+present_sessions                                   |  Sessions marked as attending (including late before registers closed)
+reason_b_aea_education_off_site                    |  Sessions marked as approved education off site
+reason_c_authorised_other                          |  Sessions marked as authorised other
+reason_d_aea_dual_registration                     |  Sessions marked as dual registration
+reason_e_authorised_excluded                       |  Sessions marked as authorised excluded
+reason_g_unauthorised_holiday                      |  Sessions marked as unauthorised holiday
+reason_h_authorised_holiday                        |  Sessions marked as authorised holiday
+reason_i_authorised_illness                        |  Sessions marked as authorised illness
+reason_j_aea_interview                             |  Sessions marked as approved interview
+reason_l_present_late_before_registers_closed      |  Sessions marked as late before registers closed
+reason_m_authorised_medical_dental                 |  Sessions marked as authorised medical or dental appointments
+reason_n_no_reason_yet                             |  Sessions marked as no reason yet
+reason_o_other_unauthorised                        |  Sessions marked as unauthorised other
+reason_p_aea_approved_sporting_activity            |  Sessions marked as approved sporting activity
+reason_present                                     |  Sessions marked as attending (excluding late before registers closed)
+reason_present_am                                  |  Morning sessions
+reason_present_pm                                  |  Afternoon sessions
+reason_r_authorised_religious_observance           |  Sessions marked as authorised  religious observance
+reason_s_authorised_study_leave                    |  Sessions marked as authorised study leave
+reason_t_authorised_grt_absence                    |  Sessions marked as authorised traveller absence
+reason_u_unauthorised_late_after_registers_closed  |  Sessions marked as unauthorised late after registers closed
+reason_v_aea_educational_visit_trip                |  Sessions marked as approved educational visit or trip
+reason_w_aea_work_experience                       |  Sessions marked as approved work experience
+reason_x_not_attending_covid_non_compulsory        |  Sessions marked as not attending due to covid circumstances
+school_type                                        |  School Type
+total_enrolments                                   |  Total number of enrolments from GIAS
+total_num_schools                                  |  Total number of schools from GIAS
+unauth_hol_perc                                    |  Unauthorised holiday absence rate
+unauth_late_registers_closed_perc                  |  Unauthorised late absence rate
+unauth_not_yet_perc                                |  Unauthorised no reason yet absence rate
+unauth_oth_perc                                    |  Unauthorised other absence rate
+unauthorised_absence                               |  Sessions marked as unauthorised absence
+unauthorised_absence_perc                          |  Unauthorised absence rate
+
+
+Pupil attendance since week commencing 12 September - weekly
+
+Filename: ees_weekly_data_.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2022 Week 37 to 2023 Week 30
+Content summary: Weekly local authority, regional and national attendance since 12 September 2022, including reasons for absence. Figures are provided for state-funded primary, secondary and special schools. Totals for all schools are also included that include estimates for non-response.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                      |  Variable description
+-------------------------------------------------  |  ----------------------------------------------------------------------
+appointments_perc                                  |  Authorised appointments absence rate
+approved_educational_activity                      |  Sessions marked as approved educational activity
+attendance_perc                                    |  Attendance rate
+auth_excluded_perc                                 |  Authorised exclusions absence rate
+auth_grt_perc                                      |  Authorised traveller absence rate
+auth_holiday_perc                                  |  Authorised holiday rate
+auth_other_perc                                    |  Authorised other absence rate
+auth_religious_perc                                |  Authorised religious observance absence rate
+auth_study_perc                                    |  Authorised study leave absence rate
+authorised_absence                                 |  Sessions marked as authorised absence
+authorised_absence_perc                            |  Authorised absence rate
+covid_non_compulsory_perc                          |  Authorised not attending due to covid circumstances rate
+enrolments                                         |  Number of enrolments in schools reporting
+illness_perc                                       |  Authorised illness absence rate
+late_sessions                                      |  Sessions marked as late
+num_schools                                        |  Number of schools reporting
+overall_absence                                    |  Sessions marked as absence
+overall_absence_perc                               |  Overall absence rate
+overall_attendance                                 |  Sessions marked at attending (including approved educational activity)
+possible_sessions                                  |  Total possible sessions
+present_sessions                                   |  Sessions marked as attending (including late before registers closed)
+reason_b_aea_education_off_site                    |  Sessions marked as approved education off site
+reason_c_authorised_other                          |  Sessions marked as authorised other
+reason_d_aea_dual_registration                     |  Sessions marked as dual registration
+reason_e_authorised_excluded                       |  Sessions marked as authorised excluded
+reason_g_unauthorised_holiday                      |  Sessions marked as unauthorised holiday
+reason_h_authorised_holiday                        |  Sessions marked as authorised holiday
+reason_i_authorised_illness                        |  Sessions marked as authorised illness
+reason_j_aea_interview                             |  Sessions marked as approved interview
+reason_l_present_late_before_registers_closed      |  Sessions marked as late before registers closed
+reason_m_authorised_medical_dental                 |  Sessions marked as authorised medical or dental appointments
+reason_n_no_reason_yet                             |  Sessions marked as no reason yet
+reason_o_other_unauthorised                        |  Sessions marked as unauthorised other
+reason_p_aea_approved_sporting_activity            |  Sessions marked as approved sporting activity
+reason_present                                     |  Sessions marked as attending (excluding late before registers closed)
+reason_present_am                                  |  Morning sessions
+reason_present_pm                                  |  Afternoon sessions
+reason_r_authorised_religious_observance           |  Sessions marked as authorised  religious observance
+reason_s_authorised_study_leave                    |  Sessions marked as authorised study leave
+reason_t_authorised_grt_absence                    |  Sessions marked as authorised traveller absence
+reason_u_unauthorised_late_after_registers_closed  |  Sessions marked as unauthorised late after registers closed
+reason_v_aea_educational_visit_trip                |  Sessions marked as approved educational visit or trip
+reason_w_aea_work_experience                       |  Sessions marked as approved work experience
+reason_x_not_attending_covid_non_compulsory        |  Sessions marked as not attending due to covid circumstances
+school_type                                        |  School Type
+total_enrolments                                   |  Total number of enrolments from GIAS
+total_num_schools                                  |  Total number of schools from GIAS
+unauth_hol_perc                                    |  Unauthorised holiday absence rate
+unauth_late_registers_closed_perc                  |  Unauthorised late absence rate
+unauth_not_yet_perc                                |  Unauthorised no reason yet absence rate
+unauth_oth_perc                                    |  Unauthorised other absence rate
+unauthorised_absence                               |  Sessions marked as unauthorised absence
+unauthorised_absence_perc                          |  Unauthorised absence rate
+
+
+Pupil attendance since week commencing 12 September - Academic year 2022 - 2023
+
+Filename: ees_ytd_data_.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2022/23
+Content summary: Full 2022/23 academic year local authority, regional and national attendance since 12 September 2022, including reasons for absence. Figures are provided for state-funded primary, secondary and special schools. Totals for all schools are also included that include estimates for non-response.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                      |  Variable description
+-------------------------------------------------  |  ----------------------------------------------------------------------
+appointments_perc                                  |  Authorised appointments absence rate
+approved_educational_activity                      |  Sessions marked as approved educational activity
+attendance_perc                                    |  Attendance rate
+auth_excluded_perc                                 |  Authorised exclusions absence rate
+auth_grt_perc                                      |  Authorised traveller absence rate
+auth_holiday_perc                                  |  Authorised holiday rate
+auth_other_perc                                    |  Authorised other absence rate
+auth_religious_perc                                |  Authorised religious observance absence rate
+auth_study_perc                                    |  Authorised study leave absence rate
+authorised_absence                                 |  Sessions marked as authorised absence
+authorised_absence_perc                            |  Authorised absence rate
+covid_non_compulsory_perc                          |  Authorised not attending due to covid circumstances rate
+enrolments                                         |  Number of enrolments in schools reporting
+illness_perc                                       |  Authorised illness absence rate
+late_sessions                                      |  Sessions marked as late
+num_schools                                        |  Number of schools reporting
+overall_absence                                    |  Sessions marked as absence
+overall_absence_perc                               |  Overall absence rate
+overall_attendance                                 |  Sessions marked at attending (including approved educational activity)
+pa_perc                                            |  Persistent absence rate
+possible_sessions                                  |  Total possible sessions
+present_sessions                                   |  Sessions marked as attending (including late before registers closed)
+reason_b_aea_education_off_site                    |  Sessions marked as approved education off site
+reason_c_authorised_other                          |  Sessions marked as authorised other
+reason_d_aea_dual_registration                     |  Sessions marked as dual registration
+reason_e_authorised_excluded                       |  Sessions marked as authorised excluded
+reason_g_unauthorised_holiday                      |  Sessions marked as unauthorised holiday
+reason_h_authorised_holiday                        |  Sessions marked as authorised holiday
+reason_i_authorised_illness                        |  Sessions marked as authorised illness
+reason_j_aea_interview                             |  Sessions marked as approved interview
+reason_l_present_late_before_registers_closed      |  Sessions marked as late before registers closed
+reason_m_authorised_medical_dental                 |  Sessions marked as authorised medical or dental appointments
+reason_n_no_reason_yet                             |  Sessions marked as no reason yet
+reason_o_other_unauthorised                        |  Sessions marked as unauthorised other
+reason_p_aea_approved_sporting_activity            |  Sessions marked as approved sporting activity
+reason_present                                     |  Sessions marked as attending (excluding late before registers closed)
+reason_present_am                                  |  Morning sessions
+reason_present_pm                                  |  Afternoon sessions
+reason_r_authorised_religious_observance           |  Sessions marked as authorised  religious observance
+reason_s_authorised_study_leave                    |  Sessions marked as authorised study leave
+reason_t_authorised_grt_absence                    |  Sessions marked as authorised traveller absence
+reason_u_unauthorised_late_after_registers_closed  |  Sessions marked as unauthorised late after registers closed
+reason_v_aea_educational_visit_trip                |  Sessions marked as approved educational visit or trip
+reason_w_aea_work_experience                       |  Sessions marked as approved work experience
+reason_x_not_attending_covid_non_compulsory        |  Sessions marked as not attending due to covid circumstances
+school_type                                        |  School Type
+total_enrolments                                   |  Total number of enrolments from GIAS
+total_num_schools                                  |  Total number of schools from GIAS
+unauth_hol_perc                                    |  Unauthorised holiday absence rate
+unauth_late_registers_closed_perc                  |  Unauthorised late absence rate
+unauth_not_yet_perc                                |  Unauthorised no reason yet absence rate
+unauth_oth_perc                                    |  Unauthorised other absence rate
+unauthorised_absence                               |  Sessions marked as unauthorised absence
+unauthorised_absence_perc                          |  Unauthorised absence rate
+
+
+Pupil attendance between 12 September and 16 December 2022 - Autumn term
+
+Filename: ees_aut_data_.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2022/23 Autumn term
+Content summary: Autumn term local authority, regional and national attendance between 12 September and 16 December  2022, including reasons for absence. Figures are provided for state-funded primary, secondary and special schools broken down by Free School Meals eligibility. Totals for all schools are also included that include estimates for non-response.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                      |  Variable description
+-------------------------------------------------  |  ----------------------------------------------------------------------
+appointments_perc                                  |  Authorised appointments absence rate
+approved_educational_activity                      |  Sessions marked as approved educational activity
+attendance_perc                                    |  Attendance rate
+auth_excluded_perc                                 |  Authorised exclusions absence rate
+auth_grt_perc                                      |  Authorised traveller absence rate
+auth_holiday_perc                                  |  Authorised holiday rate
+auth_other_perc                                    |  Authorised other absence rate
+auth_religious_perc                                |  Authorised religious observance absence rate
+auth_study_perc                                    |  Authorised study leave absence rate
+authorised_absence                                 |  Sessions marked as authorised absence
+authorised_absence_perc                            |  Authorised absence rate
+covid_non_compulsory_perc                          |  Authorised not attending due to covid circumstances rate
+enrolments                                         |  Number of enrolments in schools reporting
+illness_perc                                       |  Authorised illness absence rate
+late_sessions                                      |  Sessions marked as late
+num_schools                                        |  Number of schools reporting
+overall_absence                                    |  Sessions marked as absence
+overall_absence_perc                               |  Overall absence rate
+overall_attendance                                 |  Sessions marked at attending (including approved educational activity)
+pa_perc                                            |  Persistent absence rate
+possible_sessions                                  |  Total possible sessions
+present_sessions                                   |  Sessions marked as attending (including late before registers closed)
+reason_b_aea_education_off_site                    |  Sessions marked as approved education off site
+reason_c_authorised_other                          |  Sessions marked as authorised other
+reason_d_aea_dual_registration                     |  Sessions marked as dual registration
+reason_e_authorised_excluded                       |  Sessions marked as authorised excluded
+reason_g_unauthorised_holiday                      |  Sessions marked as unauthorised holiday
+reason_h_authorised_holiday                        |  Sessions marked as authorised holiday
+reason_i_authorised_illness                        |  Sessions marked as authorised illness
+reason_j_aea_interview                             |  Sessions marked as approved interview
+reason_l_present_late_before_registers_closed      |  Sessions marked as late before registers closed
+reason_m_authorised_medical_dental                 |  Sessions marked as authorised medical or dental appointments
+reason_n_no_reason_yet                             |  Sessions marked as no reason yet
+reason_o_other_unauthorised                        |  Sessions marked as unauthorised other
+reason_p_aea_approved_sporting_activity            |  Sessions marked as approved sporting activity
+reason_present                                     |  Sessions marked as attending (excluding late before registers closed)
+reason_present_am                                  |  Morning sessions
+reason_present_pm                                  |  Afternoon sessions
+reason_r_authorised_religious_observance           |  Sessions marked as authorised  religious observance
+reason_s_authorised_study_leave                    |  Sessions marked as authorised study leave
+reason_t_authorised_grt_absence                    |  Sessions marked as authorised traveller absence
+reason_u_unauthorised_late_after_registers_closed  |  Sessions marked as unauthorised late after registers closed
+reason_v_aea_educational_visit_trip                |  Sessions marked as approved educational visit or trip
+reason_w_aea_work_experience                       |  Sessions marked as approved work experience
+reason_x_not_attending_covid_non_compulsory        |  Sessions marked as not attending due to covid circumstances
+school_type                                        |  School Type
+total_enrolments                                   |  Total number of enrolments from GIAS
+total_num_schools                                  |  Total number of schools from GIAS
+unauth_hol_perc                                    |  Unauthorised holiday absence rate
+unauth_late_registers_closed_perc                  |  Unauthorised late absence rate
+unauth_not_yet_perc                                |  Unauthorised no reason yet absence rate
+unauth_oth_perc                                    |  Unauthorised other absence rate
+unauthorised_absence                               |  Sessions marked as unauthorised absence
+unauthorised_absence_perc                          |  Unauthorised absence rate
+
+
+Pupil attendance between 03 January and 31 March 2023 - Spring term
+
+Filename: ees_spr_data_.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2022/23 Spring term
+Content summary: Spring term local authority, regional and national attendance between 03 January and 31 March 2023, including reasons for absence. Figures are provided for state-funded primary, secondary and special schools broken down by Free School Meals eligibility. Totals for all schools are also included that include estimates for non-response.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                      |  Variable description
+-------------------------------------------------  |  ----------------------------------------------------------------------
+appointments_perc                                  |  Authorised appointments absence rate
+approved_educational_activity                      |  Sessions marked as approved educational activity
+attendance_perc                                    |  Attendance rate
+auth_excluded_perc                                 |  Authorised exclusions absence rate
+auth_grt_perc                                      |  Authorised traveller absence rate
+auth_holiday_perc                                  |  Authorised holiday rate
+auth_other_perc                                    |  Authorised other absence rate
+auth_religious_perc                                |  Authorised religious observance absence rate
+auth_study_perc                                    |  Authorised study leave absence rate
+authorised_absence                                 |  Sessions marked as authorised absence
+authorised_absence_perc                            |  Authorised absence rate
+covid_non_compulsory_perc                          |  Authorised not attending due to covid circumstances rate
+enrolments                                         |  Number of enrolments in schools reporting
+illness_perc                                       |  Authorised illness absence rate
+late_sessions                                      |  Sessions marked as late
+num_schools                                        |  Number of schools reporting
+overall_absence                                    |  Sessions marked as absence
+overall_absence_perc                               |  Overall absence rate
+overall_attendance                                 |  Sessions marked at attending (including approved educational activity)
+pa_perc                                            |  Persistent absence rate
+possible_sessions                                  |  Total possible sessions
+present_sessions                                   |  Sessions marked as attending (including late before registers closed)
+reason_b_aea_education_off_site                    |  Sessions marked as approved education off site
+reason_c_authorised_other                          |  Sessions marked as authorised other
+reason_d_aea_dual_registration                     |  Sessions marked as dual registration
+reason_e_authorised_excluded                       |  Sessions marked as authorised excluded
+reason_g_unauthorised_holiday                      |  Sessions marked as unauthorised holiday
+reason_h_authorised_holiday                        |  Sessions marked as authorised holiday
+reason_i_authorised_illness                        |  Sessions marked as authorised illness
+reason_j_aea_interview                             |  Sessions marked as approved interview
+reason_l_present_late_before_registers_closed      |  Sessions marked as late before registers closed
+reason_m_authorised_medical_dental                 |  Sessions marked as authorised medical or dental appointments
+reason_n_no_reason_yet                             |  Sessions marked as no reason yet
+reason_o_other_unauthorised                        |  Sessions marked as unauthorised other
+reason_p_aea_approved_sporting_activity            |  Sessions marked as approved sporting activity
+reason_present                                     |  Sessions marked as attending (excluding late before registers closed)
+reason_present_am                                  |  Morning sessions
+reason_present_pm                                  |  Afternoon sessions
+reason_r_authorised_religious_observance           |  Sessions marked as authorised  religious observance
+reason_s_authorised_study_leave                    |  Sessions marked as authorised study leave
+reason_t_authorised_grt_absence                    |  Sessions marked as authorised traveller absence
+reason_u_unauthorised_late_after_registers_closed  |  Sessions marked as unauthorised late after registers closed
+reason_v_aea_educational_visit_trip                |  Sessions marked as approved educational visit or trip
+reason_w_aea_work_experience                       |  Sessions marked as approved work experience
+reason_x_not_attending_covid_non_compulsory        |  Sessions marked as not attending due to covid circumstances
+school_type                                        |  School Type
+total_enrolments                                   |  Total number of enrolments from GIAS
+total_num_schools                                  |  Total number of schools from GIAS
+unauth_hol_perc                                    |  Unauthorised holiday absence rate
+unauth_late_registers_closed_perc                  |  Unauthorised late absence rate
+unauth_not_yet_perc                                |  Unauthorised no reason yet absence rate
+unauth_oth_perc                                    |  Unauthorised other absence rate
+unauthorised_absence                               |  Sessions marked as unauthorised absence
+unauthorised_absence_perc                          |  Unauthorised absence rate
+
+
+Pupil attendance between 1 April and 21 July 2023 - Summer term
+
+Filename: ees_sum_data_.csv
+Geographic levels: Local authority; National; Regional
+Time period: 2022/23 Summer term
+Content summary: Summer term local authority, regional and national attendance between 01 April and 21 July 2023, including reasons for absence. Figures are provided for state-funded primary, secondary and special schools broken down by Free School Meals eligibility. Totals for all schools are also included that include estimates for non-response.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                      |  Variable description
+-------------------------------------------------  |  ----------------------------------------------------------------------
+appointments_perc                                  |  Authorised appointments absence rate
+approved_educational_activity                      |  Sessions marked as approved educational activity
+attendance_perc                                    |  Attendance rate
+auth_excluded_perc                                 |  Authorised exclusions absence rate
+auth_grt_perc                                      |  Authorised traveller absence rate
+auth_holiday_perc                                  |  Authorised holiday rate
+auth_other_perc                                    |  Authorised other absence rate
+auth_religious_perc                                |  Authorised religious observance absence rate
+auth_study_perc                                    |  Authorised study leave absence rate
+authorised_absence                                 |  Sessions marked as authorised absence
+authorised_absence_perc                            |  Authorised absence rate
+covid_non_compulsory_perc                          |  Authorised not attending due to covid circumstances rate
+enrolments                                         |  Number of enrolments in schools reporting
+illness_perc                                       |  Authorised illness absence rate
+late_sessions                                      |  Sessions marked as late
+num_schools                                        |  Number of schools reporting
+overall_absence                                    |  Sessions marked as absence
+overall_absence_perc                               |  Overall absence rate
+overall_attendance                                 |  Sessions marked at attending (including approved educational activity)
+pa_perc                                            |  Persistent absence rate
+possible_sessions                                  |  Total possible sessions
+present_sessions                                   |  Sessions marked as attending (including late before registers closed)
+reason_b_aea_education_off_site                    |  Sessions marked as approved education off site
+reason_c_authorised_other                          |  Sessions marked as authorised other
+reason_d_aea_dual_registration                     |  Sessions marked as dual registration
+reason_e_authorised_excluded                       |  Sessions marked as authorised excluded
+reason_g_unauthorised_holiday                      |  Sessions marked as unauthorised holiday
+reason_h_authorised_holiday                        |  Sessions marked as authorised holiday
+reason_i_authorised_illness                        |  Sessions marked as authorised illness
+reason_j_aea_interview                             |  Sessions marked as approved interview
+reason_l_present_late_before_registers_closed      |  Sessions marked as late before registers closed
+reason_m_authorised_medical_dental                 |  Sessions marked as authorised medical or dental appointments
+reason_n_no_reason_yet                             |  Sessions marked as no reason yet
+reason_o_other_unauthorised                        |  Sessions marked as unauthorised other
+reason_p_aea_approved_sporting_activity            |  Sessions marked as approved sporting activity
+reason_present                                     |  Sessions marked as attending (excluding late before registers closed)
+reason_present_am                                  |  Morning sessions
+reason_present_pm                                  |  Afternoon sessions
+reason_r_authorised_religious_observance           |  Sessions marked as authorised  religious observance
+reason_s_authorised_study_leave                    |  Sessions marked as authorised study leave
+reason_t_authorised_grt_absence                    |  Sessions marked as authorised traveller absence
+reason_u_unauthorised_late_after_registers_closed  |  Sessions marked as unauthorised late after registers closed
+reason_v_aea_educational_visit_trip                |  Sessions marked as approved educational visit or trip
+reason_w_aea_work_experience                       |  Sessions marked as approved work experience
+reason_x_not_attending_covid_non_compulsory        |  Sessions marked as not attending due to covid circumstances
+school_type                                        |  School Type
+total_enrolments                                   |  Total number of enrolments from GIAS
+total_num_schools                                  |  Total number of schools from GIAS
+unauth_hol_perc                                    |  Unauthorised holiday absence rate
+unauth_late_registers_closed_perc                  |  Unauthorised late absence rate
+unauth_not_yet_perc                                |  Unauthorised no reason yet absence rate
+unauth_oth_perc                                    |  Unauthorised other absence rate
+unauthorised_absence                               |  Sessions marked as unauthorised absence
+unauthorised_absence_perc                          |  Unauthorised absence rate
+
+
+Persistent absence since Autumn 2016
+
+Filename: ees_pa_chart.csv
+Geographic levels: National
+Time period: 2016/17 Autumn term to 2022/23 Autumn term
+Content summary: National persistent absence figures in Autumn terms from 2016/17 to 2022/23. Figures for 2016/17 to 2021/22 are from school census and 2022/23 are from daily attendance data.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name              |  Variable description
+-------------------------  |  --------------------------------
+code_x_persistent_absence  |  Additional as a result of Code X
+persistent_absence         |  Persistent absence rate
+total_persistent_absence   |  Including Code X
+
+Footnotes:
+
+1. Absence refers to children who are absent for authorised and unauthorised reasons, this includes children who are absent with a positive COVID case, but does not include children who are isolating but have not had a confirmed positive case, e.g. as a contact.
+2. COVID non-attendance refers to children who are not attending school due to public health guidelines. For the autumn term 2021, this should mostly have been used to record where a pupil was absent from school with symptoms of COVID-19 whilst awaiting the results of a test or as a contact. This differs to previous terms when this code was also used where pupils were advised to shield, were quarantining after returning from abroad, or were in class bubbles advised to isolate. In these circumstances schools are expected to provide remote education.
+3. 31.6% and 8.7% relate to the additional pupils when COVID non-attendance is included. Some of these pupils will have reached 10% or more by a combination of COVID non-attendance and absence.
