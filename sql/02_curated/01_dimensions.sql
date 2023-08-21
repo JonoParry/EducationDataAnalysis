@@ -18,7 +18,10 @@ create or replace dynamic table CURATED.TERMS
 TARGET_LAG = '1 minute'
 WAREHOUSE = TRANSFORMATION_WH
 as 
-select distinct TIME_PERIOD, TIME_IDENTIFIER, 
+select distinct 
+        TIME_PERIOD || ' ' || TIME_IDENTIFIER as TERM_KEY,
+        TIME_PERIOD, 
+        TIME_IDENTIFIER, 
 case 
         when TIME_IDENTIFIER = 'Autumn term'
         then to_date(substr(TIME_PERIOD,0,4) || '-09-01')

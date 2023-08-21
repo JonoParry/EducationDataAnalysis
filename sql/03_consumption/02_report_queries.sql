@@ -45,3 +45,9 @@ where region_name = :region
 and term_key = :term
 group by all
 
+-- attendance heat map
+SELECT LA_NAME, APPROXIMATE_TERM_START_DATE, AVG(OVERALL_ABSENCE_PERC) as OVERALL_ABSENCE_PERC
+FROM EDUCATIONAL_DATA_ANALYSIS_PROD.CONSUMPTION.ATTENDANCE_FSM
+WHERE REGION_NAME = :region
+and FREE_SCHOOL_MEAL_ELIGIBLE = :fsm
+group by all
