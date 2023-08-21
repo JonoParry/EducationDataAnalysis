@@ -5,14 +5,6 @@ as
 select 
     TIME_PERIOD, 
     TIME_IDENTIFIER, 
-    case 
-        when TIME_IDENTIFIER = 'Autumn term'
-        then to_date(substr(TIME_PERIOD,0,4) || '-09-01')
-        when TIME_IDENTIFIER = 'Spring term' 
-        then to_date(substr(TIME_PERIOD,0,2) || substr(TIME_PERIOD,5,6) || '-01-01')
-        when TIME_IDENTIFIER = 'Summer term' 
-        then to_date(substr(TIME_PERIOD,0,2) || substr(TIME_PERIOD,5,6) || '-04-14')
-    end as APPROXIMATE_TERM_START_DATE,
     GEOGRAPHIC_LEVEL,
     COUNTRY_CODE,
     REGION_CODE,
