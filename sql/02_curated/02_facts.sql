@@ -1,4 +1,5 @@
- create or replace dynamic table CURATED.ATTENDANCE_FSM
+-- Attendance
+create or replace dynamic table CURATED.ATTENDANCE_FSM
 TARGET_LAG = '1 minute'
 WAREHOUSE = TRANSFORMATION_WH
 as
@@ -10,6 +11,7 @@ select
     REGION_NAME,
     NEW_LA_CODE as LA_CODE,
     LA_NAME,
+    SCHOOL_TYPE,
     DISADVANTAGE_CODE,
     DISADVANTAGE_CODE = 'FSM eligible' as FREE_SCHOOL_MEAL_ELIGIBLE,
     TO_NUMBER(OVERALL_ATTENDANCE) as OVERALL_ATTENDANCE,
