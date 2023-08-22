@@ -1,3 +1,4 @@
+-- Regions
 create or replace dynamic table CURATED.REGIONS
 TARGET_LAG = '1 minute'
 WAREHOUSE = TRANSFORMATION_WH
@@ -6,6 +7,8 @@ select distinct REGION_CODE, REGION_NAME, COUNTRY_CODE
 from STAGING.STG_ATTENDANCE_FSM
 WHERE REGION_CODE IS NOT NULL and REGION_NAME IS NOT NULL;
 
+
+-- Local Authorities
 create or replace dynamic table CURATED.LOCAL_AUTHORITIES
 TARGET_LAG = '1 minute'
 WAREHOUSE = TRANSFORMATION_WH
@@ -14,6 +17,8 @@ select distinct NEW_LA_CODE as LA_CODE, LA_NAME,  OLD_LA_CODE, REGION_CODE
 from STAGING.STG_ATTENDANCE_FSM
 WHERE LA_NAME is not null;
 
+
+-- Terms
 create or replace dynamic table CURATED.TERMS
 TARGET_LAG = '1 minute'
 WAREHOUSE = TRANSFORMATION_WH
