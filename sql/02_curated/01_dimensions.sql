@@ -27,7 +27,7 @@ select distinct
         TIME_PERIOD || ' ' || TIME_IDENTIFIER as TERM_KEY,
         TIME_PERIOD, 
         TIME_IDENTIFIER, 
-case 
+    case 
         when TIME_IDENTIFIER = 'Autumn term'
         then to_date(substr(TIME_PERIOD,0,4) || '-09-01')
         when TIME_IDENTIFIER = 'Spring term' 
